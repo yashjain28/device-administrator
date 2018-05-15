@@ -1,0 +1,15 @@
+{
+    "allow_certificate_auth": true,
+    "allow_key_auth": true,
+    "brand": "Wilton",
+    "category": "Ball Peen",
+    "certificate": "",
+    "description": "This is a sledgeHammer",
+    "enabled": true,
+    "kind": null,
+    "length": null,
+    "line": null,
+    "name": "sledgeHammer",
+    "state": "On",
+    "type": "hammer"
+}

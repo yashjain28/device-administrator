@@ -1,0 +1,38 @@
+{
+    "author": {
+        "email": "yaassh28@gmail.com"
+    },
+    "clouds": [],
+    "description": "",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "devices",
+        "management",
+        "device-management",
+        "device-types",
+        "delete-message",
+        "resend-message",
+        "view-message",
+        "delete-single-historical-data",
+        "historical-sensor-data",
+        "device-status",
+        "single-historical-sensor-data-point",
+        "single",
+        "historical",
+        "sensor",
+        "data",
+        "point"
+    ],
+    "license": "MIT",
+    "name": "device-administrator",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": ""
+}

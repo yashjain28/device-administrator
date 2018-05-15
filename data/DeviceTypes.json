@@ -1,0 +1,43 @@
+{
+    "app_id": "e4e1a3af0be4e6b1a59084d890b101",
+    "collection_id": "eae1a3af0bde88b0d6eae2d2b9b101",
+    "items": [
+        {
+            "item_id": "56c77a40-7340-415c-9907-c400972d0b03",
+            "schema": "{\"name\":\"string\", \"system_key\":\"string\"}",
+            "type": "default"
+        },
+        {
+            "item_id": "693bb3c5-2a7a-4acd-a6cb-374b091ef0d8",
+            "schema": "{\"brand\":\"string\",\"category\":\"string\",\"Twinning\":\"string\",\"TestingDeviceTable\":\"string\",\"work\":\"string\",\"working\":\"string\"}",
+            "type": "hammer"
+        },
+        {
+            "item_id": "948591ae-2d6b-4612-a993-f95956b40890",
+            "schema": "{\"position\":\"string\",\"height\":\"int\"}",
+            "type": "GeoSpatialSensor"
+        }
+    ],
+    "name": "DeviceTypes",
+    "permissions": {
+        "Administrator": 15,
+        "Authenticated": 7
+    },
+    "schema": [
+        {
+            "ColumnName": "item_id",
+            "ColumnType": "uuid",
+            "PK": true
+        },
+        {
+            "ColumnName": "type",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "schema",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

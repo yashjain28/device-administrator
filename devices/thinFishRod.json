@@ -1,0 +1,15 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "brand": "Penn",
+    "category": "Surf Spinning",
+    "certificate": "",
+    "description": "This is a thin fish rod",
+    "enabled": true,
+    "kind": "Angular",
+    "length": 2,
+    "line": "Nylon",
+    "name": "thinFishRod",
+    "state": "Off",
+    "type": "fishrod"
+}

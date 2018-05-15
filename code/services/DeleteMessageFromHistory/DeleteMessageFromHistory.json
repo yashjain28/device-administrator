@@ -1,0 +1,16 @@
+{
+    "current_version": 1,
+    "dependencies": "log,clearblade",
+    "logging_enabled": "true",
+    "name": "DeleteMessageFromHistory",
+    "params": [
+        "messageTopic",
+        "timeStampToDelete"
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "DeleteMessageFromHistory.js"
+}

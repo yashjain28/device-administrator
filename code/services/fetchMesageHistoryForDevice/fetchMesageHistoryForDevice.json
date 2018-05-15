@@ -1,0 +1,15 @@
+{
+    "current_version": 1,
+    "dependencies": "log,clearblade",
+    "logging_enabled": "true",
+    "name": "fetchMesageHistoryForDevice",
+    "params": [
+        "messageTopic"
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "fetchMesageHistoryForDevice.js"
+}

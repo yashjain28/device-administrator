@@ -1,0 +1,15 @@
+{
+    "current_version": 14,
+    "dependencies": "clearblade,log,DeviceAdministratorConstants",
+    "logging_enabled": "true",
+    "name": "GetTypeSchema",
+    "params": [
+        "deviceType"
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "GetTypeSchema.js"
+}

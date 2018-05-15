@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "DeviceAdministratorConstants",
+    "description": "Utilities for Device Administration",
+    "name": "Utilites",
+    "version": 1,
+    "visibility": "system"
+}

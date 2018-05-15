@@ -1,0 +1,16 @@
+{
+    "current_version": 1,
+    "dependencies": "clearblade,http,log,DeviceAdministratorConstants,Utilites",
+    "logging_enabled": "true",
+    "name": "AddColumnsToDeviceTable",
+    "params": [
+        "column_name",
+        "type"
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "AddColumnsToDeviceTable.js"
+}

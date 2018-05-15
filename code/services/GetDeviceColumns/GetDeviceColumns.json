@@ -1,0 +1,13 @@
+{
+    "current_version": 1,
+    "dependencies": "clearblade,http,log,DeviceAdministratorConstants",
+    "logging_enabled": "true",
+    "name": "GetDeviceColumns",
+    "params": [],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "GetDeviceColumns.js"
+}

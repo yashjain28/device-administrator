@@ -1,0 +1,29 @@
+{
+    "columns": [
+        {
+            "ColumnName": "brand",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "category",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "line",
+            "ColumnType": "string",
+            "PK": false
+        },
+        {
+            "ColumnName": "length",
+            "ColumnType": "int",
+            "PK": false
+        },
+        {
+            "ColumnName": "kind",
+            "ColumnType": "string",
+            "PK": false
+        }
+    ]
+}

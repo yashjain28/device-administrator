@@ -1,0 +1,15 @@
+{
+    "allow_certificate_auth": false,
+    "allow_key_auth": true,
+    "brand": null,
+    "category": null,
+    "certificate": "",
+    "description": "Device2",
+    "enabled": true,
+    "kind": null,
+    "length": null,
+    "line": null,
+    "name": "d2",
+    "state": "Active4",
+    "type": "PressureSensor"
+}

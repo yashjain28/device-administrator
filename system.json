@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "",
+    "messaging_url": "staging.clearblade.com:1883",
+    "name": "device-administrator",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "e4e1a3af0be4e6b1a59084d890b101",
+    "system_secret": "E4E1A3AF0BF2C4F0C0EDE1DACA9701"
+}

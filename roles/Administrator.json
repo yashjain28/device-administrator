@@ -1,0 +1,116 @@
+{
+    "Description": "Default role that is applied to a user who has rights to everything",
+    "ID": "Administrator",
+    "Name": "Administrator",
+    "Permissions": {
+        "AllCollections": {
+            "Level": 0
+        },
+        "AllServices": {
+            "Level": 0
+        },
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "AddColumnsToDeviceTable",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "AddNewDeviceType",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "AddNewTypeForDevice",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "DeleteMessageFromHistory",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "GetAllUsersForSystem",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "GetDeviceColumns",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "GetTypeSchema",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "NewTypeForDevice",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "PublishMessageToTopic",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "UpdateDevice",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "UpdateDeviceTypeSchema",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            },
+            {
+                "Level": 1,
+                "Name": "fetchMesageHistoryForDevice",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "eae1a3af0bde88b0d6eae2d2b9b101",
+                "Items": [],
+                "Level": 15,
+                "Name": "DeviceTypes"
+            }
+        ],
+        "Deployments": {
+            "Level": 0
+        },
+        "DevicesList": {
+            "Level": 0
+        },
+        "EdgesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [
+            {
+                "Level": 15,
+                "Name": "deviceAdministrator",
+                "SystemKey": "e4e1a3af0be4e6b1a59084d890b101"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "Timers": {
+            "Level": 0
+        },
+        "Topics": [],
+        "Triggers": {
+            "Level": 0
+        },
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}

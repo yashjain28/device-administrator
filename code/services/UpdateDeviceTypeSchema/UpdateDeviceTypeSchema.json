@@ -1,0 +1,15 @@
+{
+    "current_version": 6,
+    "dependencies": "clearblade,log,http,DeviceAdministratorConstants",
+    "logging_enabled": "true",
+    "name": "UpdateDeviceTypeSchema",
+    "params": [
+        ""
+    ],
+    "permissions": {
+        "Administrator": 1,
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "UpdateDeviceTypeSchema.js"
+}
